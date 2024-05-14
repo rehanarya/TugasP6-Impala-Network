@@ -1,0 +1,60 @@
+@font-face {
+  font-family: Telegraf;
+  src: url(assets/font/PPTelegraf-Regular.otf);
+}
+@font-face {
+  font-family: TelegrafBold;
+  src: url(assets/font/PPTelegraf-Ultrabold.otf);
+}
+
+nav {
+  font-family: Telegraf;
+}
+.navbar-brand {
+  font-family: TelegrafBold;
+}
+
+p {
+  font-family: Telegraf;
+}
+h1 {
+  padding-bottom: 3rem;
+  font-family: TelegrafBold;
+  font-size: 200%;
+}
+
+h2 {
+  font-family: TelegrafBold;
+  font-size: 200%;
+}
+
+h3 {
+  font-family: TelegrafBold;
+  text-align: center;
+}
+
+#about {
+  padding-top: 4rem;
+  padding-bottom: 7rem;
+}
+
+#services {
+  padding-top: 4rem;
+  background-color: rgba(107, 96, 96, 0.76);
+  padding-bottom: 7rem;
+}
+
+#partner {
+  padding-top: 4rem;
+  background-color: rgb(219, 205, 167);
+  padding-bottom: 7rem;
+}
+
+#contact {
+  padding-top: 4rem;
+}
+
+#footer {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+}
